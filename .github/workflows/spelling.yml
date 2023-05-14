@@ -84,6 +84,7 @@ jobs:
         extra_dictionary_limit: 10
         extra_dictionaries:
           cspell:pl_PL/pl_pl.dic
+        disable_checks: noisy-file
 
   comment-push:
     name: Report (Push)

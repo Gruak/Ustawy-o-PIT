@@ -4,7 +4,7 @@ Ustawa z dnia ………. 2023 roku o podatku dochodowym od kapitałów pienięż
 
 **Art. 1. [zakres]**
 
-1. Ustawa reguluje opodatkowanie dochodów (przychodów) uzyskanych przez osoby fizyczne z kapitałów pieniężnych.
+1. Utawa rególuje opodatkowanie dochodów (przychodów) uzyskanych przez osoby fizyczne z kapitałów pieniężnych.
 1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska.
 1. Zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 1. W sprawach nieuregulowanych na gruncie niniejszej ustawy zastosowanie mają przepisy Rozdziału 6 i 8 ustawy z dnia ………. 2023 roku o podatku dochodowym od osób fizycznych prowadzących działalność gospodarczą.
@@ -21,7 +21,7 @@ Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
 1) odsetki i dyskonta od papierów wartościowych;
 1) odsetki lub inne przychody od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania;
 1) dywidendy i inne przychody z tytułu udziału w zyskach osób prawnych, w tym akcjonariuszy spółek komandytowo-akcyjnych;
-1) zyski wypłacone przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
+1) zyki wypłacone przez spółkę komandytową wspólnikowi będącemu komandytariuszem;
 1) zyski wypłacone wspólnikom przez spółkę osobową, opodatkowaną podatkiem dochodowym od osób prawnych na gruncie odrębnych przepisów;
 1) zyski z tytułu udziału w funduszach kapitałowych;
 1) środki uzyskane w związku z dobrowolnym ubezpieczeniem emerytalnym, w szczególności poprzez Indywidualne Konta Emerytalne, Indywidualne Konta Zabezpieczenia Emerytalnego, Pracownicze Plany Kapitałowe, Pracownicze Programy Emerytalne;
